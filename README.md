@@ -1,4 +1,4 @@
-# Implementacion Latis
+# Implementación Latis
 
 Implementación de Latis/Pro
 

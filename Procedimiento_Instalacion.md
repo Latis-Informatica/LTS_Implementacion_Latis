@@ -2,7 +2,7 @@
 
 ## Certificación de la factibilidad de instalación
 
-- [ ] Descargar documentos de soporte desde la pagina Web del sistema **[LatisPro](https://www.latisinformatica.com/Integradores/Descargas)**
+- [ ] Descargar documentos de soporte desde la pagina Web del sistema **[LatisPro](https://www.latisinformatica.com/Integradores/Descargas/)**
   - [ ] Lista de verificación para instalación del sistema  Latis/Pro
   - [ ] Procedimiento de verificación para elementos de la lista de verificación
   - [ ] Procedimiento de instalación sistema Latis/Pro

@@ -1,4 +1,4 @@
-# Comandos de Git
+# Comandos básicos de Git
 
 ## Iniciar un repositorio
 

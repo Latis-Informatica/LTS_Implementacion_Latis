@@ -6,3 +6,7 @@ Implementación de Latis/Pro
 - [Documento Check List](Check_List.md)
 - [Procedimiento de Instalación Latis](Procedimiento_Instalacion.md)
 - [Plan de Implementación inicial](Implementacion_Inicial.md)
+
+# Comandos de Git
+
+- [Comandos de Git](Comandos_de_Git.md)

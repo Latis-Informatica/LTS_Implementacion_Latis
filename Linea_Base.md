@@ -22,6 +22,7 @@
   - [ ] ~~Windows XP~~
   - [ ] Windows 7/8/8.1
   - [ ] Windows 10
+  - [ ] Windows 11
 
 ## Base de Datos SQL Server
 - Versiones de SQL Server soportadas
